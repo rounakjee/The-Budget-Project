@@ -3,4 +3,4 @@
 Created using HTML/CSS and JavaScript
 
 ## Architecture
-![TheBudgetApp/architecture.png]
+![Architecture Image](https://github.com/rounakjee/The-Budget-Project/blob/master/TheBudgetApp/architechture.PNG)
